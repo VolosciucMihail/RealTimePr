@@ -15,6 +15,7 @@ Requirments:
 1. Implement a message broker
 ## Running:
 Use command ```mix run ``` to run the app
+
 Use command  ```docker-compose up  ``` to set up docker containers
 
 
